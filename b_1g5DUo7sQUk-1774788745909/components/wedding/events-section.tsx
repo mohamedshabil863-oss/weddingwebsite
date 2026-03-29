@@ -90,7 +90,7 @@ export function EventsSection() {
                 <div className="flex items-center justify-center gap-3 p-3 bg-emerald-deep/5 rounded-sm">
                   <CalendarIcon className="text-gold-primary w-5 h-5" />
                   <div className="text-left">
-                    <p className="font-sans text-emerald-rich text-sm font-medium">Saturday</p>
+                    <p className="font-sans text-emerald-rich text-sm font-medium">Sunday</p>
                     <p className="font-serif text-emerald-deep text-lg">April 12, 2026</p>
                   </div>
                 </div>
@@ -107,7 +107,7 @@ export function EventsSection() {
                   <LocationIcon className="text-gold-primary w-5 h-5" />
                   <div className="text-left">
                     <p className="font-sans text-emerald-rich text-sm font-medium">Venue</p>
-                    <p className="font-serif text-emerald-deep text-base">Thandilam, Kadancheri Juma Masjid</p>
+                    <p className="font-serif text-emerald-deep text-base">Thandilam, Juma Masjid</p>
                   </div>
                 </div>
               </div>
@@ -154,8 +154,16 @@ export function EventsSection() {
                 <div className="flex items-center justify-center gap-3 p-3 bg-gold-primary/5 rounded-sm">
                   <CalendarIcon className="text-gold-primary w-5 h-5" />
                   <div className="text-left">
-                    <p className="font-sans text-emerald-rich text-sm font-medium">Sunday</p>
+                    <p className="font-sans text-emerald-rich text-sm font-medium">Monday</p>
                     <p className="font-serif text-emerald-deep text-lg">April 13, 2026</p>
+                  </div>
+                </div>
+                
+                <div className="flex items-center justify-center gap-3 p-3 bg-gold-primary/5 rounded-sm">
+                  <LocationIcon className="text-gold-primary w-5 h-5" />
+                  <div className="text-left">
+                    <p className="font-sans text-emerald-rich text-sm font-medium">Venue</p>
+                    <p className="font-serif text-emerald-deep text-base">Akbar Auditorium</p>
                   </div>
                 </div>
               </div>

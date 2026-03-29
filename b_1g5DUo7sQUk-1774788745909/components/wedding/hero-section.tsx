@@ -128,7 +128,7 @@ export function HeroSection() {
                 April 13, 2026
               </p>
               <p className="font-sans text-emerald-rich text-sm mt-2 tracking-wide">
-                Sunday
+                Monday
               </p>
             </div>
           </div>
