@@ -107,7 +107,7 @@ export function EventsSection() {
                   <LocationIcon className="text-gold-primary w-5 h-5" />
                   <div className="text-left">
                     <p className="font-sans text-emerald-rich text-sm font-medium">Venue</p>
-                    <p className="font-serif text-emerald-deep text-base">Thandilam, Kadancheri Juma Masjid</p>
+                    <p className="font-serif text-emerald-deep text-base">Thandilam, Juma Masjid</p>
                   </div>
                 </div>
               </div>
